@@ -6,13 +6,13 @@ Max = 0
 for i in range(100,1000):
     for j in range(i,1000):
         # if i*j palidrome print i*j
-        p = int(i*j)
+        p = i*j
         # check p is palidrome
         r = 0
         while(p>0):
-            r = int(r * 10 + (p%10))
+            r = r * 10 + (p%10)
             p = p//10
-        if(r == int(i*j)):
+        if(r == i*j):
             if(r > Max):
                 Max = r
 print(Max)
