@@ -11,7 +11,7 @@ for i in range(100,1000):
         r = 0
         while(p>0):
             r = int(r * 10 + (p%10))
-            p = int(p/10)
+            p = p//10
         if(r == int(i*j)):
             if(r > Max):
                 Max = r
