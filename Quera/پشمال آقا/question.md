@@ -1,0 +1,2 @@
+لینک سوال 
+[پشمال آقا](https://quera.org/problemset/72877/)

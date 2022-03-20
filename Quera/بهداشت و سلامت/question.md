@@ -1,0 +1,2 @@
+لینک سوال 
+[بهداشت و سلامت](https://quera.org/problemset/51865/)
