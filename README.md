@@ -5,4 +5,5 @@
  [**Quera**](https://quera.org)
 
 ## Contribute
-Everyone can contribute and join me to solve more problems. 
+Everyone can contribute and join me to solve more problems.   
+It's time to learn together and challenge yourself...   
